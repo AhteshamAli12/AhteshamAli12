@@ -28,18 +28,11 @@ I am deeply interested in the intersection of robotics, automation, and AI. My g
 
 ### Library Management System 📚
 
-One of my recent projects is a Library Management System (LMS) developed using Python and SQLite. This project is a simple command-line application that allows users to view, add, and delete books from a library database.
-
-**Key Features:**
-- View Books 📖
-- Add Books ➕
-- Get Books 🗑️
-
-Feel free to check out the repository for more details and to see the code in action!
+- **Git Link:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahtesham-ali12/) 🔗
 
 ### YouTube Video Manager 🎥
 
-- **Git Link:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahtesham-ali12/) 🔗
+- **Git Link:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahtesham-ali12/) 🔗
 ---
 
 Thank you for visiting my repository. I am always open to feedback, collaboration, and learning new things. Feel free to reach out to me! 🌟
