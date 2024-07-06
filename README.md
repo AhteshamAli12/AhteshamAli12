@@ -1,7 +1,3 @@
-Got it! Here's the updated introduction for your GitHub repository's README file:
-
----
-
 # Welcome to My GitHub Repository! 🚀
 
 ## Introduction
