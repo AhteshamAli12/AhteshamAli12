@@ -28,11 +28,11 @@ I am deeply interested in the intersection of robotics, automation, and AI. My g
 
 ### Library Management System 📚
 
-- **Git Link:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahtesham-ali12/) 🔗
+- **Git Link:** (https://github.com/AhteshamAli12/Library-Management-System) 🔗
 
 ### YouTube Video Manager 🎥
 
-- **Git Link:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahtesham-ali12/) 🔗
+- **Git Link:** (https://github.com/AhteshamAli12/Youtube-Video-Management) 🔗
 ---
 
 Thank you for visiting my repository. I am always open to feedback, collaboration, and learning new things. Feel free to reach out to me! 🌟
